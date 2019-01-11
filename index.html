@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Song Selector</title>
+    <link href="https://fonts.googleapis.com/css?family=Staatliches" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+    <link href="main.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+
+<div id="main" class="main">
+
+  <div class="options">
+    <h1>Song Selector</h1>
+    <h2>Genre</h2>
+    <select id="genre-select">
+        <option value="folk">Folk</option>
+        <option value="metal">Metal</option>
+        <option value="classic-rock">Classic Rock</option>
+        <option value="jazz">Jazz</option>
+        <option value="hard-rock">Hard Rock</option>
+    </select>
+
+    <h2>Difficulty</h2>
+    <select id="difficulty-select">
+        <option value="easy">Easy</option>
+        <option value="moderate">Moderate</option>
+        <option value="technical">Technical</option>
+    </select>
+  </div>
+
+    <br><button id="get-songs" class="getsongs">Get Songs</button>
+
+    <h3>Options</h3>
+    <div id="song-options" class="songoptions">
+
+    </div>
+
+    <script src="main.js"></script>
+
+</div>
+
+</body>
+</html>
