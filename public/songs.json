@@ -134,13 +134,13 @@
    {
     "title": "Frankenstein",
      "artist": "Edgar Winter Group",
-     "genre": "classic rock",
+     "genre": "classic-rock",
      "difficulty": "technical"
    },
    {
     "title": "Hold The Line",
      "artist": "Toto",
-     "genre": "classic rock",
+     "genre": "classic-rock",
      "difficulty": "moderate"
    }
 ]
