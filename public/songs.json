@@ -142,5 +142,11 @@
      "artist": "Toto",
      "genre": "classic-rock",
      "difficulty": "moderate"
+   },
+   {
+    "title": "Coil",
+     "artist": "Opeth",
+     "genre": "folk",
+     "difficulty": "technical"
    }
 ]
