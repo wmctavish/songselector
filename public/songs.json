@@ -154,5 +154,11 @@
      "artist": "Warren Zevon",
      "genre": "folk",
      "difficulty": "easy"
+   },
+   {
+    "title": "Young Cardinals",
+     "artist": "Alexisonfire",
+     "genre": "metal",
+     "difficulty": "easy"
    }
 ]
