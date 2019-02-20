@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Overthrown",
+    "artist": "Sylosis",
+    "genre": "metal",
+    "difficulty": "technical"
+  },
+   {
+     "title": "Limelight",
+     "artist": "Rush",
+     "genre": "classic-rock",
+     "difficulty": "moderate"
+   },
+   {
+     "title": "Broken Halos",
+     "artist": "Chris Stapleton",
+     "genre": "folk",
+     "difficulty": "easy"
+   },
+   {
+    "title": "Mean Old Moon",
+     "artist": "Walter Murphy",
+     "genre": "jazz",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Walking Back to Georgia",
+     "artist": "Jim Croce",
+     "genre": "folk",
+     "difficulty": "easy"
+   },
+   {
+    "title": "When I'm Gone",
+    "artist": "Randy Newman",
+    "genre": "jazz",
+    "difficulty": "moderate"
+  },
+   {
+     "title": "Walls",
+     "artist": "Kings Of Leon",
+     "genre": "folk",
+     "difficulty": "easy"
+   },
+   {
+     "title": "In The Blood",
+     "artist": "John Mayer",
+     "genre": "classic-rock",
+     "difficulty": "easy"
+   },
+   {
+    "title": "Still Crazy After All These Years",
+     "artist": "Paul Simon",
+     "genre": "jazz",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Kickstart My Heart",
+     "artist": "Motley Crue",
+     "genre": "hard-rock",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Carriers Of The Plague",
+     "artist": "Psycroptic",
+     "genre": "metal",
+     "difficulty": "technical"
+   },
+   {
+    "title": "Mama I'm Coming Home",
+     "artist": "Ozzy Osbourne",
+     "genre": "hard-rock",
+     "difficulty": "easy"
+   },
+   {
+    "title": "Paschendale",
+     "artist": "Iron Maiden",
+     "genre": "metal",
+     "difficulty": "technical"
+   },
+   {
+    "title": "Servitude",
+     "artist": "Sylosis",
+     "genre": "metal",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Highland Wedding",
+     "artist": "Steve Morse",
+     "genre": "folk",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Paradox Of The Flame",
+     "artist": "Evergrey",
+     "genre": "metal",
+     "difficulty": "easy"
+   },
+   {
+    "title": "Your Song",
+     "artist": "Elton John",
+     "genre": "folk",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Burnin' For You",
+     "artist": "Blue Oyster Cult",
+     "genre": "classic-rock",
+     "difficulty": "easy"
+   },
+   {
+    "title": "Killing In The Name Of",
+     "artist": "Rage Against The Machine",
+     "genre": "hard-rock",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Georgia On My Mind",
+     "artist": "Willie Nelson",
+     "genre": "jazz",
+     "difficulty": "technical"
+   },
+   {
+    "title": "Rite Of Passage",
+     "artist": "Dream Theater",
+     "genre": "metal",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Contractor",
+     "artist": "Lamb Of God",
+     "genre": "metal",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Frankenstein",
+     "artist": "Edgar Winter Group",
+     "genre": "classic-rock",
+     "difficulty": "technical"
+   },
+   {
+    "title": "Hold The Line",
+     "artist": "Toto",
+     "genre": "classic-rock",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Coil",
+     "artist": "Opeth",
+     "genre": "folk",
+     "difficulty": "technical"
+   },
+   {
+    "title": "Keep Me In Your Heart For Awhile",
+     "artist": "Warren Zevon",
+     "genre": "folk",
+     "difficulty": "easy"
+   },
+   {
+    "title": "Young Cardinals",
+     "artist": "Alexisonfire",
+     "genre": "metal",
+     "difficulty": "easy"
+   }
+]
