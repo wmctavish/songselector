@@ -24,7 +24,7 @@ getSongs.addEventListener('click', () => {
     renderHTML(bothResult);
   }
 });
-myRequest.open('GET', './songs.json', true);
+myRequest.open('GET', 'songselector/songs.json', true); 
 myRequest.send();
 
 //Renders returned JSON into readable format
