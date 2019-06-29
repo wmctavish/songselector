@@ -160,5 +160,23 @@
      "artist": "Alexisonfire",
      "genre": "metal",
      "difficulty": "easy"
+   },
+   {
+    "title": "Vincent",
+     "artist": "Don McLean",
+     "genre": "folk",
+     "difficulty": "moderate"
+   },
+   {
+    "title": "Angel From Montgomery",
+     "artist": "Bonnie Raitt",
+     "genre": "folk",
+     "difficulty": "easy"
+   },
+   {
+    "title": "If You Could Read My Mind",
+     "artist": "Gordon Lightfoot",
+     "genre": "folk",
+     "difficulty": "moderate"
    }
 ]
